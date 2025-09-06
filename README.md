@@ -1,2 +1,2 @@
 # go-webserver
-A go webserver to practice on
+A go webserver to practice my go skills on
